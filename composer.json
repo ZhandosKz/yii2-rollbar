@@ -13,8 +13,8 @@
     ],
     "require": {
         "php": ">=7.1",
-        "yiisoft/yii2": "^2.0.15",
-        "rollbar/rollbar": "^1.5"
+        "yiisoft/yii2": "^2.0.20",
+        "rollbar/rollbar": "^1.8"
     },
     "autoload": {
         "psr-4": {
