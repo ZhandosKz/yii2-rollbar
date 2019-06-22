@@ -1,5 +1,5 @@
 {
-    "name": "baibaratsky/yii2-rollbar",
+    "name": "zhandos/yii2-rollbar",
     "description": "Rollbar for Yii2",
     "type": "yii2-extension",
     "keywords": ["rollbar", "ratchetio", "ratchet.io", "yii", "yii2", "log", "error", "exception", "debug", "monitoring"],
